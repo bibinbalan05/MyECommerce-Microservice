@@ -1,0 +1,6 @@
+@MyECommerce.Services.OrderAPI_HostAddress = http://localhost:5093
+
+GET {{MyECommerce.Services.OrderAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

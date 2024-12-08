@@ -1,0 +1,6 @@
+@MyECommerce.Services.RewardAPI_HostAddress = http://localhost:5068
+
+GET {{MyECommerce.Services.RewardAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
